@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋 I'm Keon Lee</h1>
 <h3 align="center">I am a Third-Year Engineering Physics and Computing Student at Queen's University</h3>
 
-- 💻 Check out my website at [keonlee.com](https://klee04.github.io/)
+- 💻 Check out my website at [keonlee.com](https://keonlee.com/)
 
 - 📧 Reach me at **keon.lee0404@gmail.com** or **21krl9@queensu.ca**
 
