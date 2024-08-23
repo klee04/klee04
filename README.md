@@ -5,7 +5,7 @@
 
 - 📧 Reach me at **keon.lee0404@gmail.com** or **21krl9@queensu.ca**
 
-- 📄 Take a look at my resume [Here]()
+- 📄 Take a look at my resume [Here](https://drive.google.com/file/d/1ohDYP0sm5Je0cNJg01kgFAnlez-d90d9/view?usp=sharing)
 
 
 <!--
