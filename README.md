@@ -3,7 +3,7 @@
 
 - 💻 Check out my website at [keonlee.com](https://keonlee.com/)
 
-- 📧 Reach me at **keon.lee0404@gmail.com** or **21krl9@queensu.ca**
+- 📧 Reach me at **keon.lee0404@gmail.com** or **keon.lee@queensu.ca**
 
 - 📄 Take a look at my resume [Here](https://drive.google.com/file/d/1ohDYP0sm5Je0cNJg01kgFAnlez-d90d9/view?usp=sharing)
 
